@@ -1,0 +1,22 @@
+# Streamlit secrets (NE JAMAIS PUSHER)
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Source files (assignment)
+*.docx
+~$*
